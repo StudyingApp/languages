@@ -8,7 +8,7 @@
     "details": "Курс испанской лексики на 365 дней: слова и фразы с переводом на русский.",
     "isFavorite": false,
     "type": "language",
-    "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/SpainRussianWords_status.json",
+    "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Russian/SpainRussianWords_status.json",
     "accessState": "preview",
     "version": "1.0",
     "modules": [
