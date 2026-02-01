@@ -8,7 +8,7 @@
     "details": "Полный курс английского на 365 дней (A1→C2): слова, фразы, грамматика и практика с переводом на русский.",
     "isFavorite": false,
     "type": "language",
-    "statusURL": "",
+    "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Russian/EnglishRussian365_status.json",
     "accessState": "preview",
     "version": "1.0",
     "modules": [
