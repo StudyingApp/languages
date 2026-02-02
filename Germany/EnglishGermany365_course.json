@@ -1,0 +1,913 @@
+[
+    {
+        "title": "Englischkurs mit Beispielen",
+        "createdAt": 790068733.90054,
+        "updatedAt": 1770034882166,
+        "status": "none",
+        "id": "995C441F-3A7C-4386-8858-7902A30F19DE",
+        "details": "„Ein vollständiger 365-Tage-Englischkurs (A1→C2): Wörter, Redewendungen, Grammatik und Übungen mit Übersetzung ins Russische.“",
+        "isFavorite": false,
+        "type": "language",
+        "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Russian/EnglishRussian365_status.json",
+        "accessState": "preview",
+        "version": "1.0",
+        "modules": [
+            {
+                "date": 0,
+                "id": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                "moduleDescription": "Begrüßung, Höflichkeit und Kennenlernen. Basis: to be + Pronomen + einfache Fragen.",
+                "cards": [
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Hallo! (neutral/formell)\nEX: Hello! I'm Anna. — Hallo! Ich bin Anna.\nNote: Passt fast immer.",
+                        "imagePath": "Hello!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Hello!",
+                        "id": "DE-137a0ddd-a612-410c-9f18-29a5395b8035",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Hi! (informell)\nEX: Hi, Kate! — Hi, Kate!",
+                        "imagePath": "Hi!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Hi!",
+                        "id": "DE-315bb55f-4fdc-4726-b813-4db65926f8b3",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Guten Morgen!\nEX: Good morning, Alex! — Guten Morgen, Alex!",
+                        "imagePath": "Good morning!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Good morning!",
+                        "id": "DE-2f9f070e-228c-4ab6-bceb-60f2cff75c72",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Guten Tag!\nEX: Good afternoon, Mr Brown. — Guten Tag, Mr Brown.",
+                        "imagePath": "Good afternoon!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Good afternoon!",
+                        "id": "DE-41eb884d-7bc4-45b5-9f62-e11b0fa0d5b3",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Guten Abend!\nEX: Good evening, everyone. — Guten Abend, zusammen.",
+                        "imagePath": "Good evening!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Good evening!",
+                        "id": "DE-dd0770b7b-4c48-46be-b304-0d8a367a2c17",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Gute Nacht!\nEX: Good night! See you tomorrow. — Gute Nacht! Bis morgen.",
+                        "imagePath": "Good night!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Good night!",
+                        "id": "DE-3133712c-c266-4ad0-bc92-a99cbb8dc481",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Auf Wiedersehen!\nEX: Goodbye! Have a nice day. — Auf Wiedersehen! Einen schönen Tag noch.",
+                        "imagePath": "Goodbye!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Goodbye!",
+                        "id": "DE-11fe3872-b58e-4998-a08f-2b7f2346cc50",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Tschüss!\nEX: Bye! See you later. — Tschüss! Bis später.",
+                        "imagePath": "Bye!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Bye!",
+                        "id": "DE-af2401e4-b4c5-4ddb-8480-8a6167005aa4",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Bis später!\nEX: See you later, Tom! — Bis später, Tom!",
+                        "imagePath": "See you later!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "See you later!",
+                        "id": "DE-e8a62e7b-a393-49ef-a2c6-bde8230017a6",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Schönen Tag noch!",
+                        "imagePath": "Have a nice day!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Have a nice day!",
+                        "id": "DE-7ecf6b2b-f4b0-4b3e-acde-83f98a5f8575",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Bitte\nEX: A coffee, please. — Einen Kaffee, bitte.\nNote: Höflich bitten/nachfragen.",
+                        "imagePath": "Please",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Please",
+                        "id": "DE-d34e31f2-bf64-41a4-8c9a-86c4b0f9d9f5",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Danke\nEX: Thank you for your help. — Danke für deine Hilfe.",
+                        "imagePath": "Thank you.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Thank you.",
+                        "id": "DE-370c3194-2bad-4179-9f61-6a71b3d2e6a9",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Gern geschehen / Bitte\nEX: You're welcome! — Gern geschehen!",
+                        "imagePath": "You're welcome.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "You're welcome.",
+                        "id": "DE-74836a22-244f-4b80-9a58-1a02088d15d1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Entschuldigen Sie (um Aufmerksamkeit zu bekommen)\nEX: Excuse me, where is the metro? — Entschuldigung, wo ist die U-Bahn?",
+                        "imagePath": "Excuse me.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Excuse me.",
+                        "id": "DE-54440eae-b944-4091-8196-a4d97fa0ff35",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Entschuldigung / Tut mir leid\nEX: Sorry, I'm late. — Entschuldigung, ich bin zu spät.",
+                        "imagePath": "Sorry.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Sorry.",
+                        "id": "DE-45bf567b-5be6-4a2c-a945-8f5b3f5ad1a0",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ja\nEX: Yes, please. — Ja, bitte.",
+                        "imagePath": "Yes.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Yes.",
+                        "id": "DE-72de5637-932f-4e71-a4c6-cf2fb8ba8e40",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Nein\nEX: No, thanks. — Nein, danke.",
+                        "imagePath": "No.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "No.",
+                        "id": "DE-ce8e8e7f-5c95-4cd8-9c2f-2a2f907c6f9c",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Wie heißt du / heißen Sie?\nEX: What's your name? — Wie heißt du?",
+                        "imagePath": "What's your name?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "What's your name?",
+                        "id": "DE-3cde3816-021a-4a9f-af36-5d127e4301d2",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich heiße ... / Mein Name ist ...\nEX: My name is Olga. — Ich heiße Olga.",
+                        "imagePath": "My name is.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "My name is.",
+                        "id": "DE-3d6662ed-8a57-4f9c-8bca-1a96b6a0dc56",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Freut mich, dich/Sie kennenzulernen.\nEX: Nice to meet you, Ivan. — Freut mich, Ivan.",
+                        "imagePath": "Nice to meet you.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Nice to meet you.",
+                        "id": "DE-0e494bb1-a0de-4b12-8c48-4f1a1a728d6b",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Wie geht's?",
+                        "imagePath": "How are you?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "How are you?",
+                        "id": "DE-3d1e7f87-f3b7-4e64-a1f9-9e4a6dd0c0fa",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Mir geht's gut, danke.",
+                        "imagePath": "I'm fine, thanks.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I'm fine, thanks.",
+                        "id": "DE-3b740f43-f8d3-403d-84a2-8b4b5c29a1b1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Und dir? / Und Ihnen?\nEX: I'm fine. And you? — Mir geht's gut. Und dir?",
+                        "imagePath": "And you?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "And you?",
+                        "id": "DE-3b8ed5b1-7b21-4f6a-a1ef-3fd0e53d0fe1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Woher kommst du / kommen Sie?\nEX: Where are you from? — Woher kommst du?",
+                        "imagePath": "Where are you from?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Where are you from?",
+                        "id": "DE-7b1cc8c3-3a67-44fd-9a3b-1e1f0e9d9d6b",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich komme aus Polen.\nNote: Ersetze Land/Stadt.",
+                        "imagePath": "I'm from Poland.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I'm from Poland.",
+                        "id": "DE-0d8e06f1-1c7d-45ea-9a8c-bb79a4b6a2fd",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich bin ...\nEX: I am a student. — Ich bin Student/Studentin.\nNote: Formel: I am + Beruf/Adjektiv.",
+                        "imagePath": "I am.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I am.",
+                        "id": "DE-0d8e7038-e1f0-4f2e-9f78-2d2d0ae7d7d5",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Du bist / Sie sind ...\nEX: You are my friend. — Du bist mein Freund.",
+                        "imagePath": "You are.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "You are.",
+                        "id": "DE-ffed54c4-3a12-4fd2-bb95-1f6b6109b3d1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Er ist ...\nEX: He is a doctor. — Er ist Arzt.",
+                        "imagePath": "He is.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "He is.",
+                        "id": "DE-8073c2cf-16a4-4055-a8f4-bcc852a4a77f",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Sie ist ...\nEX: She is from Spain. — Sie ist aus Spanien.",
+                        "imagePath": "She is.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "She is.",
+                        "id": "DE-b3cfb3f0-c8bb-4f16-a1c9-baa34f8db0dd",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Wir sind ...\nEX: We are ready. — Wir sind bereit.",
+                        "imagePath": "We are.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "We are.",
+                        "id": "DE-2a4d47ef-2eb8-4af8-947a-346b3a1cb5e6",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Sie sind ... (they)\nEX: They are at home. — Sie sind zu Hause.",
+                        "imagePath": "They are.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "They are.",
+                        "id": "DE-48c874ab-4f51-4f28-9912-bb7b4b6f10fd",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: sein\nEX: I want to be a doctor. — Ich möchte Arzt werden.\nNote: Wichtiges Kopulaverb.",
+                        "imagePath": "be",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "be",
+                        "id": "DE-3f5a7c6a-82e9-48cc-9e1f-f3c4c8f3d9d3",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Formen von „to be“: am / is / are\nEX: I am Anna. He is Tom. We are friends. — Ich bin Anna. Er ist Tom. Wir sind Freunde.\nNote: I→am, he/she/it→is, we/you/they→are.",
+                        "imagePath": "am / is / are",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "am / is / are",
+                        "id": "DE-1b79bdb7-0cfb-4b68-95cf-8f4b2dbd2a70",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: mein / meine\nEX: My name is Kate. — Ich heiße Kate.",
+                        "imagePath": "my",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "my",
+                        "id": "DE-68868223-a2dc-4c0d-9de6-0d8c7f1dd7a7",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: dein / Ihr(e)\nEX: Is this your phone? — Ist das dein Handy?",
+                        "imagePath": "your",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "your",
+                        "id": "DE-0d70cf6e-4a54-4e22-8f4e-6dfb7f8b5c8f",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Name\nEX: My name is Max. — Ich heiße Max.",
+                        "imagePath": "name",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "name",
+                        "id": "DE-8e17ab63-5a89-4a38-84f5-4ce4a268e063",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Freund\nEX: This is my friend Anna. — Das ist meine Freundin Anna.",
+                        "imagePath": "friend",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "friend",
+                        "id": "DE-57a4b7d4-03f1-4f84-a3d9-4dbf8c29b0c3",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: nett / angenehm\nEX: Nice to meet you. — Freut mich, dich kennenzulernen.",
+                        "imagePath": "nice",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "nice",
+                        "id": "DE-abc7d0c1-2b8a-4b6b-8ff1-97b8d2f4f2a1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: gut\nEX: Good job! — Gut gemacht!",
+                        "imagePath": "good",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "good",
+                        "id": "DE-fd6f00d6-1e7d-4aa4-b2f8-0f7a4b88a33e",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Morgen\nEX: In the morning I drink tea. — Morgens trinke ich Tee.",
+                        "imagePath": "morning",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "morning",
+                        "id": "DE-ff9c4b9b-2f28-4e7a-9f73-6c2ef1c3b0a7",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Abend\nEX: Good evening! — Guten Abend!",
+                        "imagePath": "evening",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "evening",
+                        "id": "DE-0c7bc5de-3b25-4c85-8d77-c4beab7f4d44",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Nacht\nEX: Good night! — Gute Nacht!",
+                        "imagePath": "night",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "night",
+                        "id": "DE-c9b8ab07-5f1b-4f8a-9ae0-19cde6d1a2c8",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Tag\nEX: Day one. — Tag eins.",
+                        "imagePath": "",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "",
+                        "id": "DE-97095e78-0485-46b0-93d2-798cadc55e6c",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Hilfe / helfen\nEX: Can you help me? — Kannst du mir helfen?",
+                        "imagePath": "help",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "help",
+                        "id": "DE-7dba8d4f-41d6-4cdd-8f75-676c9b73d2a3",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: machen/tun (auch Hilfsverb)\nEX: What do you do? — Was machst du?\nNote: Oft in Fragen: Do you...?",
+                        "imagePath": "do",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "do",
+                        "id": "DE-2556585e-1b3f-4e10-a35a-08ba4b7f0d36",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: nicht\nEX: I'm not ready. — Ich bin nicht bereit.",
+                        "imagePath": "not",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "not",
+                        "id": "DE-089fbc78-5d8a-45d9-9c2f-4ae7db0c2ed2",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: wie\nEX: How old are you? — Wie alt bist du?",
+                        "imagePath": "how",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "how",
+                        "id": "DE-03f56a2b-6b4f-48d8-912a-9a52a77f9a4b",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: wo / wohin\nEX: Where is the metro? — Wo ist die U-Bahn?",
+                        "imagePath": "where",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "where",
+                        "id": "DE-ec56b51b-ff6c-4b0f-9c37-00ad4d6ac9f0",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: was / welcher\nEX: What time is it? — Wie spät ist es?",
+                        "imagePath": "what",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "what",
+                        "id": "DE-4af4cde0-d443-47bb-a49b-4a1d2a9e6d0f",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: das / dieser\nEX: This is Anna. — Das ist Anna.",
+                        "imagePath": "this",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "this",
+                        "id": "DE-8cde8b2d-2e9e-4dbd-a0b6-1db5c1a4d2d4",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Hi!",
+                        "imagePath": "Hi!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Hi!",
+                        "id": "DE-9e3f2b2c-6c2b-4f1a-9c83-1f1b9f74a6a1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Hallo! / Guten Tag!",
+                        "imagePath": "Hello!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Hello!",
+                        "id": "DE-2c2d6b9e-4d12-4f0a-9c91-2a6d7e3c1a2b",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich heiße Alex.",
+                        "imagePath": "My name is Alex.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "My name is Alex.",
+                        "id": "DE-2b6c9e41-4f9a-4d1b-8e2a-1a2b3c4d5e6f",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Freut mich, dich kennenzulernen.",
+                        "imagePath": "Nice to meet you.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Nice to meet you.",
+                        "id": "DE-8a7b6c5d-4e3f-2a1b-9c8d-7e6f5a4b3c2d",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Wie geht's?",
+                        "imagePath": "How are you?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "How are you?",
+                        "id": "DE-1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Gut, danke.",
+                        "imagePath": "I'm fine, thanks.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I'm fine, thanks.",
+                        "id": "DE-6d5c4b3a-2f1e-0d9c-8b7a-6f5e4d3c2b1a",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich komme aus Polen.",
+                        "imagePath": "I'm from Poland.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I'm from Poland.",
+                        "id": "DE-9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich bin Student/Studentin.",
+                        "imagePath": "I am a student.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I am a student.",
+                        "id": "DE-0f1e2d3c-4b5a-6978-8796-a5b4c3d2e1f0",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Bist du bereit?",
+                        "imagePath": "Are you ready?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Are you ready?",
+                        "id": "DE-1f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f1",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Wie heißt du?",
+                        "imagePath": "What is your name?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "What is your name?",
+                        "id": "DE-2f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f2",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Ich bin neu hier. Kannst du mir helfen?",
+                        "imagePath": "I'm new here. Can you help me?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "I'm new here. Can you help me?",
+                        "id": "DE-3f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f3",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Sorry, ich verstehe nicht.",
+                        "imagePath": "Sorry, I don't understand.",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Sorry, I don't understand.",
+                        "id": "DE-4f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f4",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Kannst du das bitte wiederholen?",
+                        "imagePath": "Can you repeat, please?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Can you repeat, please?",
+                        "id": "DE-5f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f5",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Woher kommst du?",
+                        "imagePath": "Where are you from?",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "Where are you from?",
+                        "id": "DE-6f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f6",
+                        "mistakes": 0,
+                        "date": 0
+                    },
+
+                    {
+                        "isTrainingLearned": false,
+                        "isFavorite": false,
+                        "cardDescription": "DE: Bis später!",
+                        "imagePath": "See you later!",
+                        "correctAnswers": 0,
+                        "status": "Neu",
+                        "moduleId": "995C441F-3A7C-4386-8858-7902A30F17DE-DAY-001",
+                        "title": "See you later!",
+                        "id": "DE-7f0e2d3c-4b5a-6978-8796-a5b4c3d2e1f7",
+                        "mistakes": 0,
+                        "date": 0
+                    }
+                ],
+                "title": "Tag 1 — A1",
+                "isFavorite": false
+            }
+        ]
+    }
+]
