@@ -8,7 +8,7 @@
         "details": "„Ein vollständiger 365-Tage-Englischkurs (A1→C2): Wörter, Redewendungen, Grammatik und Übungen mit Übersetzung ins Russische.“",
         "isFavorite": false,
         "type": "language",
-        "statusURL": "https://github.com/StudyingApp/languages/blob/main/Germany/EnglishGermany365_status.json",
+        "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Germany/EnglishGermany365_status.json",
         "accessState": "preview",
         "version": "1.0",
         "modules": [
