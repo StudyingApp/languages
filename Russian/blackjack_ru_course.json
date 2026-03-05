@@ -8,7 +8,7 @@
     "details": "Курс по блэкджеку по книге Эдварда Торпа «Обыграй дилера», объяснённый очень простыми словами: как считать очки и что делать в игре. В каждой карточке: 1 короткое правило, 1 итог, 1 пример (ставка 5$), 1 ловушка.",
     "isFavorite": false,
     "type": "gaming",
-    "statusURL": "https://example.com/status/blackjack_kids_ru.json",
+    "statusURL": "",
     "accessState": "full",
     "version": "1.0.2",
     "modules": [
