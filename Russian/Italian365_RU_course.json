@@ -8,7 +8,7 @@
     "details": "Курс итальянского на 365 дней: от базового A1 до продвинутого уровня. Каждый день — конкретные слова и готовые фразы для жизни: приветствия, знакомство, кафе, город, покупки, путешествия, работа, здоровье, общение и т.д.",
     "isFavorite": false,
     "type": "language",
-    "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Russian/EnglishRussian365_status.json",
+    "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Russian/Italian365_RU_status.json",
     "accessState": "preview",
     "version": "1.0",
     "modules": [
