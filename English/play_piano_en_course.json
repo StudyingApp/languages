@@ -9,7 +9,7 @@
     "description": "A production-ready piano course for complete beginners. Each card is independent, musical, and structured for strong AI-generated tasks with clean normalized note sequences, phrase data, tempo metadata, keyboard range, octave targets, articulation, and bar structure.",
     "isFavorite": false,
     "type": "piano",
-    "statusURL": "https://example.com/status/play_piano_with_ai_en_prod6_v3.json",
+    "statusURL": "",
     "accessState": "full",
     "version": "3.0.0",
     "modules": [
