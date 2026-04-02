@@ -8,7 +8,7 @@
     "details": "Italian - RU / EN / ES / FR / DE / PT.",
     "isFavorite": false,
     "type": "language multi",
-    "statusURL": "",
+    "statusURL": "https://raw.githubusercontent.com/StudyingApp/languages/refs/heads/main/Italian_Multi_status.json",
     "accessState": "preview",
     "version": "1.0",
     "modules": [
